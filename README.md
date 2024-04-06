@@ -10,7 +10,11 @@ Required libraries for HW (Skaarhoj BI8 boards):
 - include "PCA9685.h"
 - include "SkaarhojBI8.h"
 
-![controller](/pics/image000003.jpg)
+
+
+3D model            |  working prototype
+:-------------------------:|:-------------------------:
+![controller](/pics/image000003.jpg)  |  ![controller](/pics/20240406_134346.jpg)
 
 default SETUP:
 
