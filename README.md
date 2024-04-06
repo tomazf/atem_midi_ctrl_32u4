@@ -14,7 +14,7 @@ Required libraries for HW (Skaarhoj BI8 boards):
 
 3D model            |  working prototype
 :-------------------------:|:-------------------------:
-![controller](/pics/image000003.jpg)  |  ![controller](/pics/20240406_134346.jpg)
+![controller](/pics/image000003.jpg)  |  ![controller](/pics/20240406_134347.jpg)
 
 default SETUP:
 
